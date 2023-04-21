@@ -1,0 +1,6 @@
+Docker Container for logio
+
+Builds a container to run logio
+Also contains shell files to use in client containers
+
+Config is contained in file.json and server.json
